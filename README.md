@@ -72,7 +72,7 @@ plt.show()
 
 ```
 # Output Waveform
-![Uploading image.png…]()
+<img width="1092" height="897" alt="image" src="https://github.com/user-attachments/assets/0f6d8220-d852-4bbe-96ec-473ae57ac8eb" />
 
 # Results
 Thus the pulse code modulation modulated and demodulated output is verified using python.
