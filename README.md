@@ -76,5 +76,3 @@ plt.show()
 
 # Results
 Thus the pulse code modulation modulated and demodulated output is verified using python.
-
-# Hardware experiment output waveform.
